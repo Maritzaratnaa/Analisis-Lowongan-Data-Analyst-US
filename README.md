@@ -4,7 +4,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis karakteristik pas
 
 Dashboard ini berfokus pada analisis **kualifikasi pendidikan, kebutuhan hard skill dan soft skill, tingkat senioritas, pengalaman kerja, lokasi lowongan, perusahaan, serta struktur deskripsi pekerjaan**.
 
-Link Dashboard: 
+Link Dashboard: https://dashboard-lowongan-data-analyst-as.streamlit.app/
 
 ## Fitur Utama
 
