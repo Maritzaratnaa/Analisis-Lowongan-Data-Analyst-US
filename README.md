@@ -10,12 +10,12 @@ Link Dashboard: https://dashboard-lowongan-data-analyst-as.streamlit.app/
 
 Dashboard menyediakan beberapa fitur analisis yang dapat digunakan secara interaktif:
 
-1. Filter Data : Pengguna dapat melakukan penyaringan data berdasarkan tahun, senioritas, lokasi, rentang pengalaman kerja
-2. Ringkasan Data : Menampilkan gambaran umum pasar kerja Data Analyst
-3. Analisis Kualifikasi Pendidikan : Menganalisis persyaratan pendidikan yang tercantum dalam lowongan
-4. Analisis Keterampilan : Menganalisis keterampilan hard skill maupun soft skill umum yang paling banyak dicari oleh perusahaan.
-5. Analisis Struktur Deskripsi Pekerjaan : Menganalisis karakteristik teks pada deskripsi lowongan
-6. Eksplorasi Data : Menyediakan tabel interaktif untuk mengeksplorasi data lowongan berdasarkan filter yang aktif.
+1. **Filter Data** : Pengguna dapat melakukan penyaringan data berdasarkan tahun, senioritas, lokasi, rentang pengalaman kerja
+2. **Ringkasan Data** : Menampilkan gambaran umum pasar kerja Data Analyst
+3. **Kualifikasi Pendidikan** : Menganalisis persyaratan pendidikan yang tercantum dalam lowongan
+4. **Analisis Keterampilan** : Menganalisis keterampilan hard skill maupun soft skill umum yang paling banyak dicari oleh perusahaan.
+5. **Struktur Deskripsi** : Menganalisis karakteristik teks pada deskripsi lowongan
+6. **Eksplorasi Data** : Menyediakan tabel interaktif untuk mengeksplorasi data lowongan berdasarkan filter yang aktif.
 
 ## Normalisasi Perbandingan Antar Tahun
 
